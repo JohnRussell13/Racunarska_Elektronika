@@ -37,7 +37,7 @@ Dialog::Dialog(QWidget *parent) :
     aY->setTickCount(5);
     chart->setAxisY(aY, series);
 
-    chart->setTitle("Merenje napona");
+    chart->setTitle("Grafik rezultata merenja");
 
     chartView = new QChartView(chart);
     chartView->setRenderHint(QPainter::Antialiasing);
