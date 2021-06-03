@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/slike">
+        <file>Photo1.png</file>
+        <file>Photo2.png</file>
+    </qresource>
+</RCC>
